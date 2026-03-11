@@ -9,7 +9,7 @@ Lasya T P,10/03/2026,Data Engineer,"Completed the data preprocessing pipeline in
 Tejas V,10/03/2026,Data Engineer,"I worked on the preprocessing notebook, implementing the Lee filter, normalization, and resizing of images and masks.",,,,
 ,,,,,,,
 B V Vedamurthi,10/03/2026,Report,Focused on the model development phase of the Marine Oil Spill Detection system.,,5,,
-Ammar Shibli,10/03/2026,Report,Researched and worked on building the model for detecting oil-contaminated regions from satellite images.,,,,
+Ammar Shibli,10/03/2026,Report,Researched and worked on building the model for detecting oil-contaminated regions from satellite images.,,5,,
 ,,,,,,,
 Snehal Rai B,10/03/2026,Model Evaluation,Developed evaluation metric and visual prediction for the unet model.,,5,,
 Manisha M S,10/03/2026,Model Evaluation,Researched about how to evaluate which evaluation are needed,,,,
@@ -18,4 +18,5 @@ Dikshitha Ramesh ,10/03/2026,Model evaluation ,Built model and started to train 
 ,,,,,,,
 Savari Yevoor,10/03/2026,Deployment,Identified required modifications in the existing code to improve deployment performance.,,5,,
 Nithin N Patel ,10/03/2026,Deployment,Tested parts of the developed code to verify compatibility with the deployment environment.,,5,,
+
 Pooja H,10/03/2026,Deployment,Prepared deployment strategy and documented steps for implementing the updated system.,,5,,
